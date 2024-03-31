@@ -3,7 +3,8 @@ import os
 import random
 import pandas as pd
 from schema import PasswordFields as PasswordSchema
-from datetime import datetime
+
+# from datetime import datetime
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
